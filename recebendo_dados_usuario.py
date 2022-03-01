@@ -53,3 +53,12 @@ Cast e o tipo de conversao de um dado para o outro
 
 
 print(f"a(o) {nome} nasceu em {2018 - int(idade)}")
+
+"""
+
+opa
+
+"""
+
+
+
